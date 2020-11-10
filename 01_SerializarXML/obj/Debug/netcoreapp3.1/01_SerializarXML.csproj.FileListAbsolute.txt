@@ -1,0 +1,16 @@
+C:\Projetos\C#\Learn_CSharp\01_SerializarXML\bin\Debug\netcoreapp3.1\01_SerializarXML.exe
+C:\Projetos\C#\Learn_CSharp\01_SerializarXML\bin\Debug\netcoreapp3.1\01_SerializarXML.deps.json
+C:\Projetos\C#\Learn_CSharp\01_SerializarXML\bin\Debug\netcoreapp3.1\01_SerializarXML.runtimeconfig.json
+C:\Projetos\C#\Learn_CSharp\01_SerializarXML\bin\Debug\netcoreapp3.1\01_SerializarXML.runtimeconfig.dev.json
+C:\Projetos\C#\Learn_CSharp\01_SerializarXML\bin\Debug\netcoreapp3.1\01_SerializarXML.dll
+C:\Projetos\C#\Learn_CSharp\01_SerializarXML\bin\Debug\netcoreapp3.1\01_SerializarXML.pdb
+C:\Projetos\C#\Learn_CSharp\01_SerializarXML\bin\Debug\netcoreapp3.1\00_Biblioteca.dll
+C:\Projetos\C#\Learn_CSharp\01_SerializarXML\bin\Debug\netcoreapp3.1\00_Biblioteca.pdb
+C:\Projetos\C#\Learn_CSharp\01_SerializarXML\obj\Debug\netcoreapp3.1\01_SerializarXML.csprojAssemblyReference.cache
+C:\Projetos\C#\Learn_CSharp\01_SerializarXML\obj\Debug\netcoreapp3.1\01_SerializarXML.AssemblyInfoInputs.cache
+C:\Projetos\C#\Learn_CSharp\01_SerializarXML\obj\Debug\netcoreapp3.1\01_SerializarXML.AssemblyInfo.cs
+C:\Projetos\C#\Learn_CSharp\01_SerializarXML\obj\Debug\netcoreapp3.1\01_SerializarXML.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\Learn_CSharp\01_SerializarXML\obj\Debug\netcoreapp3.1\01_SerializarXML.csproj.CopyComplete
+C:\Projetos\C#\Learn_CSharp\01_SerializarXML\obj\Debug\netcoreapp3.1\01_SerializarXML.dll
+C:\Projetos\C#\Learn_CSharp\01_SerializarXML\obj\Debug\netcoreapp3.1\01_SerializarXML.pdb
+C:\Projetos\C#\Learn_CSharp\01_SerializarXML\obj\Debug\netcoreapp3.1\01_SerializarXML.genruntimeconfig.cache

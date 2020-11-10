@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Usuario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nome>André Felipe Ricarti</Nome>
+  <Cpf>390.607.498-63</Cpf>
+  <Email>ricarti.182@gmail.com</Email>
+</Usuario>

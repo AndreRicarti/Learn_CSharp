@@ -1,0 +1,9 @@
+C:\Projetos\C#\Learn_CSharp\00_Biblioteca\bin\Debug\netcoreapp3.1\00_Biblioteca.deps.json
+C:\Projetos\C#\Learn_CSharp\00_Biblioteca\bin\Debug\netcoreapp3.1\00_Biblioteca.dll
+C:\Projetos\C#\Learn_CSharp\00_Biblioteca\bin\Debug\netcoreapp3.1\00_Biblioteca.pdb
+C:\Projetos\C#\Learn_CSharp\00_Biblioteca\obj\Debug\netcoreapp3.1\00_Biblioteca.csprojAssemblyReference.cache
+C:\Projetos\C#\Learn_CSharp\00_Biblioteca\obj\Debug\netcoreapp3.1\00_Biblioteca.AssemblyInfoInputs.cache
+C:\Projetos\C#\Learn_CSharp\00_Biblioteca\obj\Debug\netcoreapp3.1\00_Biblioteca.AssemblyInfo.cs
+C:\Projetos\C#\Learn_CSharp\00_Biblioteca\obj\Debug\netcoreapp3.1\00_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\Learn_CSharp\00_Biblioteca\obj\Debug\netcoreapp3.1\00_Biblioteca.dll
+C:\Projetos\C#\Learn_CSharp\00_Biblioteca\obj\Debug\netcoreapp3.1\00_Biblioteca.pdb
